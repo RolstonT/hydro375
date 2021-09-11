@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thomas
+- 👋 Hi, I’m Thomas.
 - 👀 I’m interested in Desktop apps and hoping to get into Grahical Engines.
 - 🌱 I’m currently learning how to use UWP.
 - 💞️ I’m looking to collaborate on nothing for now but I may in the future.
